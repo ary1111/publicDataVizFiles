@@ -1,240 +1,300 @@
 {
-    "data": {
-      "binnedCounts": [
-        {
-          "x": 0,
-          "y": 8,
-          "count": 1,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 1,
-          "y": 10,
-          "count": 4,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 1,
-          "y": 13,
-          "count": 3,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 2,
-          "y": 9,
-          "count": 2,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 2,
-          "y": 10,
-          "count": 11,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 7,
-          "y": 15,
-          "count": 23,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 8,
-          "y": 10,
-          "count": 2,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 8,
-          "y": 11,
-          "count": 1,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 8,
-          "y": 15,
-          "count": 5,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 8,
-          "y": 16,
-          "count": 3,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 9,
-          "y": 10,
-          "count": 1,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 9,
-          "y": 15,
-          "count": 8,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 9,
-          "y": 16,
-          "count": 3,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 9,
-          "y": 19,
-          "count": 1,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 10,
-          "y": 16,
-          "count": 1,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 10,
-          "y": 19,
-          "count": 5,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 12,
-          "y": 15,
-          "count": 4,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 14,
-          "y": 10,
-          "count": 1,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 14,
-          "y": 13,
-          "count": 1,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 14,
-          "y": 19,
-          "count": 2,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 15,
-          "y": 8,
-          "count": 3,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 15,
-          "y": 9,
-          "count": 9,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 15,
-          "y": 10,
-          "count": 63,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 15,
-          "y": 11,
-          "count": 9,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 15,
-          "y": 12,
-          "count": 6,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 15,
-          "y": 14,
-          "count": 1,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 15,
-          "y": 15,
-          "count": 2,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 15,
-          "y": 17,
-          "count": 2,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 15,
-          "y": 18,
-          "count": 14,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 15,
-          "y": 19,
-          "count": 2,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 23,
-          "y": 9,
-          "count": 6,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 24,
-          "y": 14,
-          "count": 12,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 25,
-          "y": 2,
-          "count": 2,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 25,
-          "y": 14,
-          "count": 3,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 27,
-          "y": 0,
-          "count": 1,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 27,
-          "y": 1,
-          "count": 2,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 27,
-          "y": 2,
-          "count": 25,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 27,
-          "y": 3,
-          "count": 4,
-          "floor": "CareyRd"
-        },
-        {
-          "x": 29,
-          "y": 7,
-          "count": 5,
-          "floor": "CareyRd"
-        }
-      ]
-    }
+  "data": {
+    "binnedCounts": [
+      {
+        "x": 0,
+        "y": 17,
+        "count": 12,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 4,
+        "y": 20,
+        "count": 3,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 5,
+        "y": 21,
+        "count": 3,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 5,
+        "y": 22,
+        "count": 3,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 6,
+        "y": 12,
+        "count": 6,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 7,
+        "y": 12,
+        "count": 1,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 10,
+        "y": 15,
+        "count": 8,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 10,
+        "y": 16,
+        "count": 4,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 11,
+        "y": 14,
+        "count": 1,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 11,
+        "y": 15,
+        "count": 2,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 12,
+        "y": 16,
+        "count": 6,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 12,
+        "y": 23,
+        "count": 3,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 13,
+        "y": 18,
+        "count": 1,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 13,
+        "y": 19,
+        "count": 3,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 14,
+        "y": 25,
+        "count": 1,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 14,
+        "y": 26,
+        "count": 2,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 15,
+        "y": 14,
+        "count": 1,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 15,
+        "y": 15,
+        "count": 1,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 15,
+        "y": 19,
+        "count": 4,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 15,
+        "y": 23,
+        "count": 4,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 16,
+        "y": 14,
+        "count": 3,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 16,
+        "y": 15,
+        "count": 1,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 17,
+        "y": 10,
+        "count": 4,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 17,
+        "y": 11,
+        "count": 4,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 17,
+        "y": 17,
+        "count": 8,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 17,
+        "y": 18,
+        "count": 2,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 17,
+        "y": 19,
+        "count": 3,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 18,
+        "y": 11,
+        "count": 8,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 18,
+        "y": 13,
+        "count": 6,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 18,
+        "y": 14,
+        "count": 2,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 18,
+        "y": 15,
+        "count": 1,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 18,
+        "y": 18,
+        "count": 4,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 18,
+        "y": 19,
+        "count": 1,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 18,
+        "y": 21,
+        "count": 7,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 18,
+        "y": 22,
+        "count": 27,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 18,
+        "y": 23,
+        "count": 24,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 26,
+        "y": 18,
+        "count": 60,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 28,
+        "y": 22,
+        "count": 4,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 28,
+        "y": 23,
+        "count": 6,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 29,
+        "y": 22,
+        "count": 1,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 29,
+        "y": 23,
+        "count": 2,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 30,
+        "y": 28,
+        "count": 6,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 30,
+        "y": 29,
+        "count": 21,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 30,
+        "y": 30,
+        "count": 4,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 30,
+        "y": 31,
+        "count": 2,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 30,
+        "y": 32,
+        "count": 2,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 47,
+        "y": 1,
+        "count": 4,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 48,
+        "y": 0,
+        "count": 2,
+        "floor": "CareyRd"
+      },
+      {
+        "x": 48,
+        "y": 1,
+        "count": 8,
+        "floor": "CareyRd"
+      }
+    ]
   }
+}
